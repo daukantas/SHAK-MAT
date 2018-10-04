@@ -1,0 +1,2 @@
+# SHAK-MAT
+My application has archived repositories in preparation for this first event. I value your advice on rendering my first code on : Could you advise me on my  very first submission . The Title of my first App : SHAK MAT .I want to code  the first introductory lines  of SHAK MAT just to get  things started and to render the best code  possible  without confusion . Can you help me ? https://codepen.io/gaearon/pen/VbbVLg?editors=0010
